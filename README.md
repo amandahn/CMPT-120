@@ -1,2 +1,2 @@
-# CMPT120
+# CMPT 120
 Introduction to Computer Science
