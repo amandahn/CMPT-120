@@ -1,4 +1,4 @@
-# CMPT FINAL PROJECT PT.4
+# CMPT FINAL PROJECT 
 # Amanda Ngo
 # Apr. 13, 2021
 # Create a program which takes user input and instructions
