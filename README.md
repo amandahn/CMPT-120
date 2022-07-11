@@ -1,6 +1,6 @@
-# CMPT 120, Spring 2021 - Introduction to Computer Science and Programming
+# CMPT 120, Spring 2021 - Introduction to Computer Science and Programming I
+_Repository of classwork done for CMPT 120: Introduction to Computer Science and Programming I_
+
 _**Final Project: Machine Learning for Prediction**_
 
-- Utilized scikit-learn and Turtle libraries to predict and visualize data
-- Reads csv files and follows user instructions to read and categorize data to create a model
-- Displays percentage error counts of the model from information stored in a dictionary
+A program which utilizes the scikit-learn library to take a sample and predict values for the population. Calculates the percentage error of the machine generated and actual data, and visualizes this by showing how many values are within a certain range of error (e.g., how many generated values were within 10% of the actual data, 20%, 30%, etc.). Visualizations were done via bar graph drawings using the Turtle library and colourized for more comprehensive viewing. This program includes an interactive user interface and uses .csv files as input data. 
